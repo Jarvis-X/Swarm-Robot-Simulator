@@ -20,8 +20,7 @@
 % OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 % SOFTWARE.
 
-% This program makes use of the MapNested by RolandRitt and Matlab Robotics
-% Toolbox by Peter Corke
+% This program makes use of the MapNested by RolandRitt
 
 classdef swarm_robot < handle
     % the class for the whole swarm of robots
